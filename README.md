@@ -8,7 +8,7 @@ The specifications of the introduced system are as follows:
 
   -PC-Engine Alix3d2 x86 boards
   
-  -Compex Wi-Fi Radio Adapter (Dual-band) WLM200NX
+  -Compex Wi-Fi Radio Adapter (Dual-band) WLM200NX [http://www.pcengines.ch/pdf/wlm200nx.pdf]
   
   -TP-Link USB Adapter TL-WN722N
 
