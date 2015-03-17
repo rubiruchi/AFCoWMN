@@ -1,4 +1,5 @@
 #!/bin/bash
+#---- Sample open802.11s Initialization script for a board with 3x Wi-Fi Radios ----
 PHY0=`cat /sys/class/net/wlan0/phy80211/name`
 PHY1=`cat /sys/class/net/wlan1/phy80211/name`
 PHY2=`cat /sys/class/net/wlan2/phy80211/name`
