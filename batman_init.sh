@@ -1,5 +1,6 @@
 #!/bin/bash
-#----------Loading BATMAN-advanced kernel module-----------
+#---- Sample Batman-adv Initialization script for a board with 3x Wi-Fi Radios ----
+#---------------------Loading BATMAN-advanced kernel module------------------------
 modprobe batman-adv
 #insmod /lib/modules/3.13.0-non-pae/kernel/net/batman-adv/batman-adv.ko
 PHY0=`cat /sys/class/net/wlan0/phy80211/name`
