@@ -22,6 +22,3 @@ The specifications of the introduced system are as follows:
 
 * AES and Encryption Modes 
 
-#+BEGIN_SRC
-export PYTHONPATH=${HOME}/python/lib/python2.6/site-packages
-#+END_SRC
