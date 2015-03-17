@@ -7,12 +7,12 @@ The specifications of the introduced system are as follows:
 
 --Hardware
 
-PC-Engine Alix3d2 x86 boards
-Compex Wi-Fi Radio Adapter (Dual-band) WLM200NX
-TP-Link USB Adapter TL-WN722N
+-PC-Engine Alix3d2 x86 boards
+-Compex Wi-Fi Radio Adapter (Dual-band) WLM200NX
+-TP-Link USB Adapter TL-WN722N
 
 --Software
 
-Ubuntu Linux 14.04 LTS (3.13.0-non-pae)
-Open VSwitch 2.0.2
-Floodlight v1
+-Ubuntu Linux 14.04 LTS (3.13.0-non-pae)
+-Open VSwitch 2.0.2
+-Floodlight v1
