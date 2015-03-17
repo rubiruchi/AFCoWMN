@@ -1,11 +1,3 @@
-#+STARTUP: showall
-#+STARTUP: lognotestate
-#+TAGS:
-#+SEQ_TODO: TODO STARTED DONE DEFERRED CANCELLED | WAITING DELEGATED APPT
-#+DRAWERS: HIDDEN STATE
-#+TITLE: AES encryption/decryption using different modes
-#+CATEGORY: todo
-
 # FCoWMN (Flow Control over Wireless Mesh Networks)
 
 
