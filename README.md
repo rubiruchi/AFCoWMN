@@ -20,5 +20,4 @@ The specifications of the introduced system are as follows:
   
   -Floodlight v1
 
-* AES and Encryption Modes 
 
