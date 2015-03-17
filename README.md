@@ -10,7 +10,7 @@ The specifications of the introduced system are as follows:
   
   -Compex Wi-Fi Radio Adapter (Dual-band) WLM200NX [http://www.pcengines.ch/pdf/wlm200nx.pdf]
   
-  -TP-Link USB Adapter TL-WN722N [http://www.tp-link.com/Resources/document/TL-WN821N%28C_V3_User_Guide.pdf]
+  -TP-Link USB Adapter TL-WN722N [http://goo.gl/rbzcSd]
 
 * Software
 
