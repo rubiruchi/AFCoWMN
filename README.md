@@ -15,10 +15,10 @@ Hardware
 
 Software
 --------------
-  -Ubuntu Linux 14.04 LTS (3.13.0-non-pae)
+  * Ubuntu Linux 14.04 LTS (3.13.0-non-pae)
   
-  -Open VSwitch 2.0.2
+  * Open VSwitch 2.0.2
   
-  -Floodlight v1
+  * Floodlight v1
 
 
